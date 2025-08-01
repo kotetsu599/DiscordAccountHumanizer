@@ -12,7 +12,7 @@ YELLOW = "\033[33m"
 RED = '\033[31m'
 END = '\033[0m'
 
-TOKEN = ""
+TOKEN = "" #取得したいギルドに参加しているアカウントのトークンです。
 guild_id = None
 member_ids = []
 massping = ""
